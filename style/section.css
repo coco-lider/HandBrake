@@ -1,0 +1,36 @@
+
+
+.conver-child{
+    width: 100%;
+    height: 820px;
+}
+
+.conver-child-box1{
+    display: flex;
+    justify-content: space-between;
+    padding: 200px 0;
+}
+
+.conver-child-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #1391CE;
+}
+
+.conver-child-box-main{
+    width: 550px;
+    height: 300px;
+    text-align: center;
+    padding: 90px 0;
+    background-color: #1391CE;
+    color: white;
+}
+
+.child-box{
+    margin-top: 100px;
+    width: 250px;
+    border: 5px solid #F7BA0E;
+}

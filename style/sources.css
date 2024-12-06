@@ -1,0 +1,47 @@
+
+
+.sources-child{
+    display: flex;
+}
+
+.sources-child-box{
+    width: 1000px;
+    height: 800px;
+}
+
+.sources-child-box img{
+    width: 100%;
+    height: 100%;
+}
+
+.sources-title{
+    font-size: 35px;
+    margin-top: 25px;
+    line-height: 1.5;
+}
+
+.sources-title span{
+    color: #25468A;
+}
+
+.title1{
+    color: #1391CE;
+}
+
+.checkbox-group {
+    margin-bottom: 10px; /* Har bir checkbox guruhi orasidagi masofa */
+    display: flex;
+    align-items: center;
+}
+
+input[type="checkbox"] {
+    transform: scale(2.5); /* Checkboxni kattalashtirish */
+    margin-right: 10px;    /* Checkbox va label orasiga masofa qo'shish */
+    border-radius: 50%;
+}
+
+label {
+    display: inline-block;
+    margin-left: 10px; /* Checkbox va label orasidagi masofa */
+    font-size: 35px;
+}
