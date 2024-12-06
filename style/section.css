@@ -21,10 +21,10 @@
 }
 
 .conver-child-box-main{
-    width: 550px;
-    height: 300px;
+    width: 300px;
+    height: 150px;
     text-align: center;
-    padding: 90px 0;
+    padding: 40px 0;
     background-color: #1391CE;
     color: white;
 }

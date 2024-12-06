@@ -22,7 +22,7 @@
 .built-child-box h1{
     margin-top: 20px;
     color: #1391CE;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .built-child-box-title{
@@ -32,7 +32,6 @@
 .built-title{
     font-size: 35px;
     margin-top: 10px;
-    line-height: 2;
 }
 
 .built-child span{

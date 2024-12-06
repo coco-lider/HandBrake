@@ -5,7 +5,7 @@
 }
 
 .sources-child-box{
-    width: 1000px;
+    width: 800px;
     height: 800px;
 }
 
@@ -43,5 +43,5 @@ input[type="checkbox"] {
 label {
     display: inline-block;
     margin-left: 10px; /* Checkbox va label orasidagi masofa */
-    font-size: 35px;
+    font-size: 30px;
 }

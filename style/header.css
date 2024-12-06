@@ -34,8 +34,9 @@
 }
 
 .head button{
-    width: 350px;
-    height: 100px;
+    margin-top: 15px;
+    width: 150px;
+    height: 50px;
     border-radius: 50px;
     color: #25468A;
     border: none;
