@@ -6,8 +6,8 @@
 }
 
 .built-child-box{
-    width: 1000px;
-    height: 800px;
+    width: 900px;
+    height: 400px;
 }
 
 .built-child-box img{
@@ -26,7 +26,7 @@
 }
 
 .built-child-box-title{
-    margin-top: 40px;
+    margin-top: 5px;
 }
 
 .built-title{
@@ -36,6 +36,10 @@
 
 .built-child span{
     color: #25468A;
-    font-size: 30px;
+    font-size: 40px;
+}
+
+.built-child-box p{
+    font-size: 25px;
 }
 

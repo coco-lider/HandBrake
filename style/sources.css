@@ -6,7 +6,7 @@
 
 .sources-child-box{
     width: 800px;
-    height: 800px;
+    height: 400px;
 }
 
 .sources-child-box img{
@@ -15,7 +15,7 @@
 }
 
 .sources-title{
-    font-size: 35px;
+    font-size: 25px;
     margin-top: 25px;
     line-height: 1.5;
 }
@@ -40,8 +40,4 @@ input[type="checkbox"] {
     border-radius: 50%;
 }
 
-label {
-    display: inline-block;
-    margin-left: 10px; /* Checkbox va label orasidagi masofa */
-    font-size: 30px;
-}
+

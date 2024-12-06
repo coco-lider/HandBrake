@@ -24,15 +24,17 @@ body{
     margin-bottom: 10px; /* Har bir checkbox guruhi orasidagi masofa */
     display: flex;
     align-items: center;
+    font-size: 100px;
 }
 
 input[type="checkbox"] {
     transform: scale(2.5); /* Checkboxni kattalashtirish */
     margin-right: 10px;    /* Checkbox va label orasiga masofa qo'shish */
+    font-size: 10px;
 }
 
 label {
     display: inline-block;
     margin-left: 10px; /* Checkbox va label orasidagi masofa */
-    font-size: 35px;
+    font-size: 40px;
 }

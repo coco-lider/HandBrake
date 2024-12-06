@@ -3,12 +3,13 @@
 }
 
 .even-child{
+    margin-top: 50px;
     display: flex;
 }
 
 .even-child-box{
-    width: 1000px;
-    height: 800px;
+    width: 900px;
+    height: 400px;
     padding: 0 50px;
 }
 
@@ -18,7 +19,7 @@
 }
 
 .even-title{
-    font-size: 35px;
+    font-size: 30px;
     margin-top: 25px;
     padding: 0 50px;
 }
@@ -30,4 +31,10 @@
 .even-child-box h1{
     color: #1391CE;
     margin: 0 0 20px 0;
+}
+
+label {
+    display: inline-block;
+    margin-left: 10px; /* Checkbox va label orasidagi masofa */
+    font-size: 20px;
 }
